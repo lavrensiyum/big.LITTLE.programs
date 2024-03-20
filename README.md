@@ -30,3 +30,8 @@ Turkey's presidential election follow-up is now on Discord! No need to watch TV.
 ## ThiefProtect
 
 What you left behind is in good hands! If someone unplug charger from your PC, you will get a notification in Telegram.
+
+
+## SUSTURULDUN
+
+Put the ban (mute) hammer in the hand of your defenseless son (Discord bot) (BAN FESTIVAL)
