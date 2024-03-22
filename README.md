@@ -7,7 +7,7 @@ The archive I created for every "what if" ideas.
 
 Deployable server script to get request with Siri (Apple) to get todays meal.
 
-<img src="HacettepeYemekBot/pictures/yemek.png"/>
+<img src="HacettepeYemekBot/pictures/yemek.jpg"/>
 
 ```
 Hey Siri!
