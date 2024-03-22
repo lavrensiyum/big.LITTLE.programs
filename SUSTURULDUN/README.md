@@ -1,4 +1,10 @@
-No one can badmouth to my boy. HITTING HIM IN THE MOUTH WITH A SHOVEL MY BOY!
+No one can badmouth to my boy. HIT HIM IN THE MOUTH WITH A SHOVEL, MY BOY!
+
+In fact, it decides whether the sentence is negative or positive, but in general, it considers the large majority of abusive sentences or insulting sentences as negative.
+
+<img src="pictures/bot.png"/>
+
+It's actually quite funny considering the deleted messages and the state of the chat
 
 For the pretrained model, 
 
