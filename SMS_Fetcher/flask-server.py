@@ -27,6 +27,14 @@ def send_message():
         
         with open('messages.txt', 'w') as f:
             f.writelines(lines)
+            
+        # iOS 18 Beta'da Shortcuts uygulaması POST requestlerde eğer başında 0 varsa 6 karakterli mesajları 5 karakterli olarak gönderiyor. 
+        # Bu yüzden 5 karakterli mesajlara 0 ekliyorum. aptal apple
+        # "012345" ==ShortcutsApp==> "12345"
+        message = str(message)
+        if len(message) == 5:
+            message = '0' + message
+        ###
         
         AlgolabSifre = message
         
