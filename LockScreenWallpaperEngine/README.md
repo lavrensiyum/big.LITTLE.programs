@@ -5,6 +5,9 @@
 
 Bored of the default Windows Lock Screen? Well, with this script, you will be able to run Wallpaper Engine on the Lock Screen.
 
+## Update Time!!
+Now, the script working with Threads. No need to wait "listener.join()" to finish. Better then ever.
+
 ## How does is work
 
 After enabling Windows Screen Saver, this script is checks the Lock Screen (WIN + L) and detect LogonUI.exe
